@@ -11,12 +11,6 @@ const nextConfig = {
   images: {
     domains: ['storage.googleapis.com'],
   },
-  experimental: {
-    images: {
-      allowFutureImage: true,
-      unoptimized: true,
-    },
-  },
 };
 
 module.exports = nextConfig;
