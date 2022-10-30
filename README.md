@@ -1,3 +1,5 @@
+#This project is for practicing, my plan is to make it look somewhat like Instagram, but im not sure if ill do the features, maybe later down the road!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
