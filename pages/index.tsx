@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-<Button>This is a button</Button>
+<Button colorVariant='tretiary'>This is a button</Button>
     </>
   )
 }
