@@ -20,6 +20,6 @@ error: '#FF4422',
 disabled: '#EFEFEF',
 textPrimary: '#000',
 textSecondary: '#fff',
-backgroundPrimary: '#cfcfcf'
+backgroundPrimary: '#ccc9'
 }
 }
