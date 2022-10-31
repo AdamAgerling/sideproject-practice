@@ -1,6 +1,5 @@
-import Head from 'next/head'
-import { Button } from '../src/components/atoms/Button'
-
+import Head from 'next/head';
+import { Button } from '../src/components/atoms/Button';
 
 export default function Home() {
   return (
@@ -11,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-<Button colorVariant='tretiary'>This is a button</Button>
+      <Button>This is a button</Button>
     </>
-  )
+  );
 }

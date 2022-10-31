@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
 *{
@@ -10,7 +10,7 @@ export const GlobalStyle = createGlobalStyle`
 }
 html, body, #__next{
 height: 100%;
-background-color: #ccc9 ;
+background-color: #838181 ;
 }
 button {
   font-size: 1rem;
@@ -57,4 +57,4 @@ h6{
 }
 
 
-`
+`;

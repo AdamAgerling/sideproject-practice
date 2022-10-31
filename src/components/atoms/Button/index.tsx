@@ -9,7 +9,7 @@ type ButtonProps = {
 const StyledButton = styled.button<ButtonProps>`
   cursor: pointer;
   color: ${({ theme }) => theme.colors.textPrimary};
-  background-color: ${({ theme }) => theme.colors.primary};
+  background-color: ${({ theme }) => theme.colors.secondary};
   border-radius: 5px;
   padding: 5px 9px;
   border-color: transparent;
@@ -17,7 +17,7 @@ const StyledButton = styled.button<ButtonProps>`
     background-color: ${({ theme }) => theme.colors.disabled};
   }
   &:active {
-    border: 2px solid ${({ theme }) => theme.colors.secondary};
+    border: 2px solid ${({ theme }) => theme.colors.primary};
   }
 
   ${({ colorVariant }) =>
